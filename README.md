@@ -1,7 +1,7 @@
 As integrantes da dupla são: Vívian e Lívia.
 
 DIAGRAMA DE CLASSE (UML)
-
+```
 +------------------+
 |      Sala        |
 +------------------+
@@ -38,7 +38,7 @@ DIAGRAMA DE CLASSE (UML)
 | + confirmar(): void|
 | + cancelar(): void |
 +------------------+
-
+```
 
 **EXPLICAÇÃO**
                      
@@ -64,7 +64,7 @@ DIAGRAMA DE CLASSE (UML)
 -------------------------------------------------------------------------------------------------
 
 DIAGRAMA DE CLASSE (BPMN)
-
+```
 +-------------------+
 | Início do Processo|
 +-------------------+
@@ -94,7 +94,7 @@ DIAGRAMA DE CLASSE (BPMN)
 +------------------+       +-------------------+
 | Sala Indisponível|       | Fim do Processo   |
 +------------------+       +-------------------+
-
+```
 
 
 explicação do Diagrama BPMN:
