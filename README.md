@@ -49,6 +49,8 @@ DIAGRAMA DE CLASSE (UML)
 6. **Confirmar ou Escolher Outra**: Se disponível, reserva é confirmada. Se não, escolhe outra sala.
 7. **Fim**: Processo finaliza.
 
+**Explicação para que serve os nomes que não são tão conhecidos.**
+
 **void**: Indica que o método não retorna nada.
 
 **int**: Tipo para números inteiros (sem decimais).
